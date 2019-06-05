@@ -1,5 +1,7 @@
 # NTU Shop Bot
 
+This project is done in AY2017 S1 for NTU SCSE CE1003/CZ1003 Introduction to Computational Thinking.
+
 This bot aims to bring shop info and directions to all students easily without trawling through webpages,
 all in the comfort of the telegram app! 
 
