@@ -6,8 +6,11 @@ This bot aims to bring shop info and directions to all students easily without t
 all in the comfort of the telegram app! 
 
 Step 1) Start the bot using /start
+
 Step 2) Use the keyboards to find your desired shop
+
 Step 3) Use the back buttons to go back if u made the wrong selection
+
 Step 4) Type in start again to restart the bot
 
 
