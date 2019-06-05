@@ -1,0 +1,4 @@
+telepot
+requests
+beautifulsoup4
+
