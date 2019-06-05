@@ -1,4 +1,4 @@
-#NTU Shop Bot
+# NTU Shop Bot
 
 This bot aims to bring shop info and directions to all students easily without trawling through webpages,
 all in the comfort of the telegram app! 
