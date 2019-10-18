@@ -905,7 +905,7 @@ class Convo(telepot.helper.CallbackQueryOriginHandler):
 
 
 
-TOKEN = 'Insert token here'
+TOKEN = '885760516:AAEjQvzf89OlPlwv6bzQ_T8IUNYTMcRnlHk'
 
 bot = telepot.DelegatorBot(TOKEN, [
     pave_event_space()(
